@@ -1,5 +1,0 @@
-<h1>Beginner's Guide to Python</h1>
-<p>New to programming? Python is free and easy to learn if you know where to start! This guide will help you to get started quickly. </p>
-<p>
-Next, install the Python 3 interpreter on your computer. This is the program that reads Python programs and carries out their instructions; you need it before you can do any Python programming. Mac and Linux distributions may include an outdated version of Python (Python 2), but you should install an updated one (Python 3). See BeginnersGuide/Download for instructions to download the correct version of Python.
-</p>
